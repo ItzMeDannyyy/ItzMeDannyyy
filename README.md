@@ -10,7 +10,7 @@
 
 ## 👋 Hi!
 
-I'm <b>Danyxtu</b>, a passionate developer with a knack for creating innovative solutions. I love coding, exploring new technologies, and tackling challenging problems. Let's build something great together!
+I'm <b>Dannyyy</b>, a passionate developer with a knack for creating innovative solutions. I love coding, exploring new technologies, and tackling challenging problems. Let's build something great together!
 
 ## About Me
 
