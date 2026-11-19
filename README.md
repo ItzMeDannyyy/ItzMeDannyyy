@@ -42,6 +42,6 @@ Currently, I'm diving deep into various projects and honing my skills in web dev
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyxtu&show_icons=true&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Danyxtu&show_icons=true&theme=radical](https://github-stats-extended.vercel.app/api?username=ItzMeDannyyy&custom_title=ItzMeDannyyy%27s%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github))
 
 <img src="assets/footer-banner.svg" >
